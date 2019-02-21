@@ -1,0 +1,23 @@
+html, body {
+    margin: 5px;
+    padding: 0;
+    font-family: sans-serif;
+    /* width: 60%; */
+    
+}
+
+.container {
+    border: 1px black solid;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.header {
+    padding: 15px 0 0 40px; 
+}
+
+.addContato {
+    padding: 40px;
+}
